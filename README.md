@@ -1,66 +1,24 @@
-<div align="center">
+# Mohamed Al-Oqaily
 
-# Hi, I'm Mohamed Al-Oqaily 👋
+### Computer Science Student · Front-End Developer
 
-### Software Engineering Student • Frontend Developer in Progress
+I build responsive web interfaces and small applications while studying Computer Science at Matrouh University. I’m focused on strengthening my JavaScript and front-end fundamentals, and currently learning React and Firebase.
 
-I'm a Computer Science student passionate about building useful software, learning modern web technologies, and turning ideas into real projects.
+- **Focus:** HTML, CSS/SCSS, JavaScript, responsive UI
+- **Also work with:** Python, Tkinter
+- **Currently learning:** React, Firebase
+- **Contact:** [moeloqaily@gmail.com](mailto:moeloqaily@gmail.com)
 
-<a href="https://github.com/moeloqaily">
-  <img src="https://img.shields.io/badge/GitHub-moeloqaily-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+## Featured Projects
 
-<a href="https://github.com/moeloqaily?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-FFD43B?style=for-the-badge&logo=github&logoColor=181717">
-</a>
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [Personal Portfolio](https://github.com/moeloqaily/Portfolio) | A responsive portfolio site with project, skills, and contact sections. | HTML, SCSS |
+| [Expense Tracker](https://github.com/moeloqaily/expense_tracker) | A desktop app to record expenses, organize categories, and convert totals to USD. | Python, Tkinter |
+| [Dollar to EGP Converter](https://github.com/moeloqaily/Dollar) | A small web app for converting US dollars to Egyptian pounds. | HTML, JavaScript |
+| [Profile Dashboard](https://github.com/moeloqaily/profile-dashborad) | A compact profile page built with a responsive card layout. | HTML, CSS |
 
-</div>
+## Find me
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science student at **Matrouh University**
-- 💻 Building my path toward **Software Engineering**
-- 🌐 Currently focused on **Frontend Development**
-- 🔥 Learning **React & Firebase**
-- 🧠 Improving my JavaScript and problem-solving skills
-- 🚀 Building real projects to turn knowledge into experience
-- 🎯 My goal is to become a well-rounded Software Engineer
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" />
-</p>
-
-### Frontend & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,firebase" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-```text
-JavaScript
-    ↓
-React
-    ↓
-Firebase
-    ↓
-Modern Frontend Development
-    ↓
-Software Engineering
+- [GitHub repositories](https://github.com/moeloqaily?tab=repositories)
+- [Email](mailto:moeloqaily@gmail.com)
